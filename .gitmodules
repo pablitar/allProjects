@@ -1,0 +1,6 @@
+[submodule "caminante-tadp"]
+	path = caminante-tadp
+	url = https://github.com/pablitar/caminante-tadp
+[submodule "PewPewScala"]
+	path = PewPewScala
+	url = https://github.com/pablitar/PewPewScala
